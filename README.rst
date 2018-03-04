@@ -1,10 +1,10 @@
 pypuppetdb_daily_report
 =======================
 
-.. image:: https://pypip.in/v/pypuppetdb_daily_report/badge.png
+.. image:: https://img.shields.io/pypi/v/pypuppetdb_daily_report.svg
    :target: https://crate.io/packages/pypuppetdb_daily_report
 
-.. image:: https://pypip.in/d/pypuppetdb_daily_report/badge.png
+.. image:: https://img.shields.io/pypi/dm/pypuppetdb_daily_report.svg
    :target: https://crate.io/packages/pypuppetdb_daily_report
 
 .. image:: https://landscape.io/github/jantman/pypuppetdb-daily-report/master/landscape.svg
